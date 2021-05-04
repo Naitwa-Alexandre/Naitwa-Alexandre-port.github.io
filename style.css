@@ -137,6 +137,7 @@ header.sticky ul li a
 .w50
 {
     min-width: 50%;
+    margin: auto;
 }
 .w50 .img {
     border-radius: 50%;
@@ -430,6 +431,10 @@ img
     .w50
     {
         margin-bottom: 20px;
+    }
+    .w50 .img {
+        margin-left: 100px;
+        margin: auto;
     }
     .services .contact .servicesBx
     {
