@@ -200,7 +200,6 @@ img
 .work .content .workBx img
 {
     max-width: 100%;
-    border: 1px solid black;
 }
 
 .work .content .workBx img:hover {
